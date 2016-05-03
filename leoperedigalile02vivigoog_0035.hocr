@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leoperedigalile02vivigoog_0035.png"; bbox 0 0 3775 5759; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 859 2484 1096 2538">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 859 2484 1096 2538">
+     <span class='ocr_line' id='line_1_1' title="bbox 859 2484 1096 2538; baseline -0.03 0"><span class='ocrx_word' id='word_1_1' title='bbox 859 2484 1096 2538; x_wconf 65' lang='lat' dir='ltr'><strong>{mmwcu&#39;roffl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 587 2638 1372 2717">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 587 2638 1372 2717">
+     <span class='ocr_line' id='line_1_2' title="bbox 587 2638 1372 2717; baseline -0.025 0"><span class='ocrx_word' id='word_1_2' title='bbox 587 2651 779 2717; x_wconf 65' lang='lat' dir='ltr'>SALleTi</span> <span class='ocrx_word' id='word_1_3' title='bbox 803 2684 846 2698; x_wconf 92' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 870 2643 1066 2713; x_wconf 80' lang='lat' dir='ltr'><strong>SAGREDO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1090 2678 1132 2689; x_wconf 98' lang='lat'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 1157 2638 1372 2706; x_wconf 79' lang='lat' dir='ltr'>SIMPLICIO.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 846 2853 1122 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 846 2853 1122 2874">
+     <span class='ocr_line' id='line_1_3' title="bbox 846 2853 1122 2874; baseline -0.018 -10"><span class='ocrx_word' id='word_1_7' title='bbox 846 2853 1122 2874; x_wconf 63' lang='lat'><strong>„-...,..‚,„...</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1892 5759">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1892 5759">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1892 5759; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1892 5759; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
